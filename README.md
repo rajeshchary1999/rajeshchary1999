@@ -1,6 +1,7 @@
 
 - <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">Into The Data Science Field</h3>
+<img align='right' alt='Coding' width='400' src="https://cdn.vectorstock.com/i/1000x1000/14/64/monkey-ape-coder-logo-mascot-programmer-vector-28641464.webp"
 
 - 🌱 I’m currently learning **MLOPS**
 
