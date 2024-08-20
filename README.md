@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/rajeshchary1999](github.com/rajeshchary1999)
 
-- 📝 I regularly write articles on [https://medium.com/@grajeshchary1929](https://medium.com/@grajeshchary1929)
+- 📝 I regularly write articles on [https://medium.com/@grajeshchary1929](https://medium.com/@grajeshchary1929) 
 
 - 📫 How to reach me **grajeshchary1929@gmail.com**
 
